@@ -11,7 +11,7 @@
     <div class="navbar-item nav-home">
       <span class="tour">TOUR</span>
       <span class="of">OF</span>
-      <span class="heroes">NANNIES</span>
+      <span class="nannies">NANNIES</span>
     </div>
     <button
       class="link navbar-burger burger"
